@@ -2,9 +2,9 @@
 
 <div>
     <p>
-     #Curso práctico 
+     #Curso práctico de HTML y CSS
      <br> 
-     Ejercicio práctico del Curso práctico de HTMl y CSS dónde se maqueta el home de de la página de Google.
+     Ejercicio práctico dónde se maqueta el home de de la página de Google.
     </p>
 </div>
 
